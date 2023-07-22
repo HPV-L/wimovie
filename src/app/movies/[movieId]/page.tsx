@@ -1,12 +1,14 @@
 import React from 'react'
 
 export const metadata = {
-    title: `Wimovie | Movie`
+    title: `Wimovie | Movie - `
 }
 
 const page = () => {
   return (
-    <div>Movie</div>
+    <div>
+      
+    </div>
   )
 }
 

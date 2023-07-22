@@ -1,12 +1,15 @@
 import React from 'react'
+import { toast } from 'react-hot-toast'
 
 export const metadata = {
-    title: `Wimovie | Movie - `
+    title: `Wimovie | Movie`
 }
 
 const page = () => {
   return (
-    <div>Movie detail</div>
+    <div>
+      Movie
+    </div>
   )
 }
 
